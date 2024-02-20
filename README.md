@@ -24,3 +24,7 @@ To test the animation, simply click the provided link to access the project on G
 ## Feedback
 
 - We value your feedback! If you have any suggestions, ideas, or encounter any issues while testing the animation, please don't hesitate to reach out. Your input helps us improve the project for everyone.
+
+### credits
+
+- Design inspired from figma [figma](https://www.figma.com/community/file/1334104770413669167)
